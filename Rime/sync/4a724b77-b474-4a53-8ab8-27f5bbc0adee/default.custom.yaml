@@ -1,5 +1,0 @@
-# ~/Library/Rime/default.custom.yaml
-patch:
-  schema_list:
-    # 五笔
-    - schema: wubi86
