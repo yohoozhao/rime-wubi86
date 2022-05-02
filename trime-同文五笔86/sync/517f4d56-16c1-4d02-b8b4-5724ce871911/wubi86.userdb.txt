@@ -1,0 +1,293 @@
+# Rime user dictionary
+#@/db_name	wubi86
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	277
+#@/user_id	517f4d56-16c1-4d02-b8b4-5724ce871911
+adpu 	其实	c=1 d=1 t=9
+ahha 	雅虎	c=1 d=1 t=73
+aj 	划	c=1 d=1 t=130
+apfc 	劳动	c=1 d=1 t=107
+ard 	菝	c=3 d=2.71497 t=61
+avrq 	切换	c=1 d=1 t=148
+b 	了	c=2 d=1.82283 t=161
+bgnk 	隔壁	c=1 d=1 t=167
+bn 	也	c=1 d=1 t=244
+bo 	耿	c=1 d=1 t=39
+c 	以	c=1 d=1 t=271
+ce 	能	c=1 d=1 t=163
+cejg 	能量	c=1 d=1 t=242
+cqel 	鸡肋	c=1 d=1 t=150
+d 	在	c=5 d=3.53315 t=159
+ddu 	套	c=1 d=1 t=238
+dhdh 	存在	c=1 d=1 t=67
+dmnn 	而已	c=1 d=1 t=225
+dnuq 	成交	c=3 d=2.72898 t=226
+dy 	太	c=1 d=1 t=149
+eyb 	脑	c=1 d=1 t=59
+fcl 	动	c=1 d=1 t=131
+fcu 	去	c=1 d=1 t=197
+fggh 	干	c=1 d=1 t=165
+fnw 	块	c=1 d=1 t=248
+fp 	过	c=1 d=1 t=166
+ft 	才	c=1 d=1 t=209
+ggtt 	五笔	c=2 d=1.98511 t=256
+gh 	下	c=1 d=1 t=125
+gi 	不	c=1 d=1 t=206
+gice 	不能	c=1 d=1 t=164
+gide 	还有	c=1 d=1 t=201
+gm 	现	c=2 d=1.91393 t=158
+gmf 	再	c=1 d=1 t=196
+gmww 	两	c=1 d=1 t=199
+h 	上	c=5 d=4.17826 t=251
+hhdh 	卡在	c=1 d=1 t=66
+hhsf 	目标	c=1 d=1 t=213
+hko 	点	c=1 d=1 t=171
+ih 	小	c=3 d=2.76588 t=262
+ihvt 	小九	c=1 d=1.08511 t=263
+im 	没	c=3 d=2.51402 t=231
+imgk 	没事	c=1 d=1 t=208
+iqsf 	光标	c=1 d=1 t=132
+iqui 	溜冰	c=3 d=2.72357 t=54
+j 	是	c=4 d=3.48487 t=245
+k 	中	c=2 d=1.65051 t=144
+ka 	呀	c=1 d=1 t=229
+kc 	吧	c=1 d=1 t=194
+ke 	吸	c=1 d=1 t=18
+key 	吸	c=1 d=1 t=38
+kgn 	号	c=2 d=1.65705 t=241
+kldn 	嗯	c=1 d=1 t=236
+knx 	呢	c=1 d=1 t=220
+kru 	啦	c=1 d=1 t=151
+ktk 	咯	c=1 d=1 t=186
+kw 	只	c=1 d=1 t=200
+kwjg 	只是	c=1 d=1 t=214
+l 	国	c=3 d=2.72357 t=53
+lh 	四	c=1 d=1 t=119
+lklg 	回车	c=1 d=1 t=252
+mmit 	山海	c=1 d=1 t=273
+o 	为	c=2 d=1.34646 t=272
+pe 	家	c=2 d=1.9802 t=180
+pgn 	写	c=1 d=1 t=139
+pl 	军	c=1 d=1 t=181
+pp 	之	c=1 d=1 t=255
+ppue 	之前	c=1 d=1 t=233
+pteb 	客服	c=1 d=1 t=118
+ptkm 	额	c=1 d=1 t=173
+puhc 	被	c=1 d=1 t=187
+pwst 	空格	c=1 d=1 t=129
+pyj 	神	c=1 d=1 t=254
+q 	我	c=8 d=6.86995 t=246
+qg 	钱	c=1 d=1 t=216
+qim 	锁	c=1 d=1 t=222
+qkd 	句	c=1 d=1 t=135
+qkqy 	兔	c=3 d=2.43792 t=243
+r 	的	c=4 d=3.08973 t=235
+rcn 	把	c=1 d=1 t=182
+rffg 	挂	c=2 d=1.88692 t=184
+rh 	年	c=1 d=1 t=106
+rhf 	看	c=1 d=1 t=232
+ruv 	接	c=1 d=1 t=192
+sghg 	西	c=1 d=1 t=145
+shsh 	想想	c=1 d=1 t=72
+tel 	盘	c=1 d=1 t=193
+tf 	行	c=2 d=1.92312 t=178
+tfk 	千	c=1 d=1 t=204
+thtc 	怎么	c=1 d=1 t=138
+ti 	秒	c=1 d=1 t=198
+tie 	稍	c=1 d=1 t=10
+tmtu 	射箭	c=3 d=2.41999 t=237
+tqfc 	移动	c=1 d=1 t=133
+uda 	差	c=1 d=1 t=247
+udh 	着	c=1 d=1 t=223
+uemh 	剪贴	c=1 d=1 t=12
+ufqe 	半角	c=1 d=1 t=154
+ujfj 	单	c=1 d=1 t=224
+ukd 	问	c=1 d=1 t=124
+vb 	好	c=3 d=2.62962 t=153
+vbvb 	好好	c=1 d=1 t=152
+vfb 	那	c=1 d=1 t=155
+vr 	姝	c=1 d=1 t=109
+vt 	九	c=2 d=1.97531 t=263
+vtk 	群	c=1 d=1 t=120
+wadc 	代码	c=1 d=1 t=136
+wu 	们	c=1 d=1 t=211
+wwgj 	偷	c=1 d=1 t=189
+wwst 	价格	c=1 d=1 t=183
+xt 	张	c=1 d=1 t=202
+ybo 	烹	c=1 d=1 t=19
+yge 	请	c=1 d=1 t=123
+yi 	就	c=2 d=1.78663 t=190
+ym 	高	c=2 d=1.92774 t=185
+ymwu 	高位	c=1 d=1 t=191
+yp 	这	c=1 d=1 t=134
+ypwh 	这个	c=1 d=1 t=8
+yygy 	文	c=1 d=1 t=146
+yynw 	该	c=1 d=1 t=137
+encafis 	划动光标	c=0 d=0.1 t=132
+encajfc 	划动	c=0 d=0.1 t=131
+encapti 	其实稍	c=0 d=0.1 t=10
+encardy 	切换太	c=0 d=0.1 t=149
+encbjtr 	也是我	c=0 d=0.1 t=246
+encbnjg 	也是	c=0 d=0.1 t=245
+encbntt 	隔壁射箭	c=0 d=0.1 t=168
+enccekr 	鸡肋啦	c=0 d=0.1 t=151
+enccgce 	能不能	c=0 d=0.1 t=164
+enccgcf 	能不能干	c=0 d=0.1 t=165
+enccjqb 	能量兔也	c=0 d=0.1 t=244
+enccjqk 	能量兔	c=0 d=0.1 t=243
+encdcek 	太鸡肋啦	c=0 d=0.1 t=151
+encdcel 	太鸡肋	c=0 d=0.1 t=150
+encddjg 	套是	c=0 d=0.1 t=239
+encdhrf 	在挂	c=0 d=0.1 t=160
+encdhyi 	在就	c=0 d=0.1 t=142
+encdjtr 	套是我	c=0 d=0.1 t=240
+encdukn 	成交呢	c=0 d=0.1 t=220
+encdyjg 	在就是	c=0 d=0.1 t=143
+encdyjk 	在就是中	c=0 d=0.1 t=144
+encfbnk 	过隔壁	c=0 d=0.1 t=167
+encfcti 	去秒	c=0 d=0.1 t=198
+encffbn 	干过隔壁	c=0 d=0.1 t=167
+encfgfp 	干过	c=0 d=0.1 t=166
+encfisf 	动光标	c=0 d=0.1 t=132
+encfnhh 	块上	c=0 d=0.1 t=249
+encftgk 	去秒两只	c=0 d=0.1 t=200
+encftgm 	去秒两	c=0 d=0.1 t=199
+encgcff 	不能干过	c=0 d=0.1 t=166
+encgcfg 	不能干	c=0 d=0.1 t=165
+encgdrf 	现在挂	c=0 d=0.1 t=160
+encgdyi 	现在就	c=0 d=0.1 t=142
+encgdyj 	现在就是	c=0 d=0.1 t=143
+encgftg 	再去秒两	c=0 d=0.1 t=199
+encgfti 	再去秒	c=0 d=0.1 t=198
+encgmdh 	现在	c=0 d=0.1 t=159
+encgmfc 	再去	c=0 d=0.1 t=197
+encgmkw 	两只	c=0 d=0.1 t=200
+enchddd 	卡在存在	c=1 d=1 t=69
+enchduq 	点成交	c=0 d=0.1 t=172
+enchhhh 	上上	c=0 d=0.1 t=251
+enchhtf 	上千	c=0 d=0.1 t=204
+enciduk 	没成交呢	c=0 d=0.1 t=220
+enciduq 	没成交	c=0 d=0.1 t=219
+encihqg 	小钱	c=0 d=0.1 t=216
+encihvt 	小九	c=0 d=0.1 t=258
+encimbn 	没了	c=0 d=0.1 t=122
+encimrh 	没看	c=0 d=0.1 t=232
+encirpu 	没看之前	c=0 d=0.1 t=233
+encistf 	光标移动	c=0 d=0.1 t=133
+encjgkh 	是中	c=0 d=0.1 t=144
+encjgtr 	是我	c=0 d=0.1 t=246
+encjksg 	是中西	c=0 d=0.1 t=145
+encjksy 	是中西文	c=0 d=0.1 t=146
+encjtka 	是我呀	c=0 d=0.1 t=229
+enckbar 	吸耿菝	c=1 d=1 t=52
+enckcjg 	号能量	c=0 d=0.1 t=242
+enckcjq 	号能量兔	c=0 d=0.1 t=243
+enckeya 	中脑为菝	c=1 d=1 t=65
+enckgdh 	号现在	c=0 d=0.1 t=159
+enckgdr 	号现在挂	c=0 d=0.1 t=160
+enckggm 	号现	c=0 d=0.1 t=158
+enckhsg 	中西	c=0 d=0.1 t=145
+enckjih 	只是小	c=0 d=0.1 t=215
+enckjiq 	只是小钱	c=0 d=0.1 t=216
+encksyr 	中西文的	c=0 d=0.1 t=147
+encksyy 	中西文	c=0 d=0.1 t=146
+enckyar 	吸烹菝	c=1 d=1 t=32
+enclhvt 	四群	c=0 d=0.1 t=120
+encliud 	国溜冰在	c=1 d=1 t=57
+enclvib 	四群没了	c=0 d=0.1 t=122
+enclvim 	四群没	c=0 d=0.1 t=121
+encnymi 	以为山海	c=1 d=1 t=277
+encpepl 	家军	c=0 d=0.1 t=181
+encpgdh 	写现在	c=0 d=0.1 t=141
+encpgdy 	写现在就	c=0 d=0.1 t=142
+encpggm 	写现	c=0 d=0.1 t=140
+encpgtt 	之五笔	c=0 d=0.1 t=256
+encplrc 	军把	c=0 d=0.1 t=182
+encppgt 	神之五笔	c=0 d=0.1 t=256
+encpprc 	家军把	c=0 d=0.1 t=182
+encprws 	军把价格	c=0 d=0.1 t=183
+encpsaf 	空格划动	c=0 d=0.1 t=131
+encpsaj 	空格划	c=0 d=0.1 t=130
+encpypp 	神之	c=0 d=0.1 t=255
+encqbjg 	兔也是	c=0 d=0.1 t=245
+encqbjt 	兔也是我	c=0 d=0.1 t=246
+encqiud 	锁着	c=0 d=0.1 t=223
+encqkbn 	兔也	c=0 d=0.1 t=244
+encqkpe 	兔家	c=0 d=0.1 t=180
+encqppl 	兔家军	c=0 d=0.1 t=181
+encqppr 	兔家军把	c=0 d=0.1 t=182
+encquuj 	锁着单	c=0 d=0.1 t=224
+encqwdc 	句代码	c=0 d=0.1 t=136
+encqwdy 	句代码该	c=0 d=0.1 t=137
+encrafc 	年劳动	c=0 d=0.1 t=107
+encrard 	的切换太	c=0 d=0.1 t=149
+encrarq 	的切换	c=0 d=0.1 t=148
+encrfym 	挂高	c=0 d=0.1 t=185
+encrhsf 	的目标	c=0 d=0.1 t=213
+encrpue 	看之前	c=0 d=0.1 t=233
+encrtkc 	接盘吧	c=0 d=0.1 t=194
+encrute 	接盘	c=0 d=0.1 t=193
+encrwsr 	把价格挂	c=0 d=0.1 t=184
+encrwst 	把价格	c=0 d=0.1 t=183
+encrykt 	挂高咯	c=0 d=0.1 t=186
+encsgyy 	西文	c=0 d=0.1 t=146
+encsshh 	想想上想想雅虎	c=1 d=1 t=105
+encsyrq 	西文的	c=0 d=0.1 t=147
+enctekc 	盘吧	c=0 d=0.1 t=194
+enctfyp 	移动这	c=0 d=0.1 t=134
+enctfyq 	移动这句	c=0 d=0.1 t=135
+enctgfc 	我再去	c=0 d=0.1 t=197
+enctgft 	我再去秒	c=0 d=0.1 t=198
+enctgkw 	秒两只	c=0 d=0.1 t=200
+enctigm 	秒两	c=0 d=0.1 t=199
+enctirh 	我没看	c=0 d=0.1 t=232
+enctrgi 	我不	c=0 d=0.1 t=206
+enctrgm 	我再	c=0 d=0.1 t=196
+enctrim 	我没	c=0 d=0.1 t=231
+enctrka 	我呀	c=0 d=0.1 t=229
+enctrwu 	我们	c=0 d=0.1 t=211
+encttdd 	射箭套	c=0 d=0.1 t=238
+encttdj 	射箭套是	c=0 d=0.1 t=239
+encttpg 	怎么写	c=0 d=0.1 t=139
+encttpg 	怎么写现	c=0 d=0.1 t=140
+encttyh 	射箭高点	c=0 d=0.1 t=171
+encttym 	射箭高	c=0 d=0.1 t=170
+enctwrq 	我们的	c=0 d=0.1 t=212
+encudnn 	单而已	c=0 d=0.1 t=225
+encuduj 	着单	c=0 d=0.1 t=224
+encukgh 	问下	c=1 d=1 t=127
+encuudn 	着单而已	c=0 d=0.1 t=225
+encvbrq 	好的	c=0 d=0.1 t=117
+encvbvr 	好姝	c=1 d=1 t=115
+encvftr 	那我	c=0 d=0.1 t=156
+encvibn 	群没了	c=0 d=0.1 t=122
+encvtim 	群没	c=0 d=0.1 t=121
+encvvvb 	好好好	c=0 d=0.1 t=153
+encwdyy 	代码该	c=0 d=0.1 t=137
+encwrhs 	们的目标	c=0 d=0.1 t=213
+encwsrf 	价格挂	c=0 d=0.1 t=184
+encwsry 	价格挂高	c=0 d=0.1 t=185
+encwurq 	们的	c=0 d=0.1 t=212
+encwwyi 	偷就	c=0 d=0.1 t=190
+encwyyw 	偷就高位	c=0 d=0.1 t=191
+encxhtf 	张上千	c=0 d=0.1 t=204
+encxthh 	张上	c=0 d=0.1 t=203
+encyhdu 	高点成交	c=0 d=0.1 t=172
+encyijg 	就是	c=0 d=0.1 t=143
+encyjkh 	就是中	c=0 d=0.1 t=144
+encyjks 	就是中西	c=0 d=0.1 t=145
+encymhk 	高点	c=0 d=0.1 t=171
+encymkt 	高咯	c=0 d=0.1 t=186
+encypqk 	这句	c=0 d=0.1 t=135
+encyqwd 	这句代码	c=0 d=0.1 t=136
+encyrar 	文的切换	c=0 d=0.1 t=148
+encyttc 	该怎么	c=0 d=0.1 t=138
+encyttp 	该怎么写	c=0 d=0.1 t=139
+encyugh 	请问下	c=0 d=0.1 t=127
+encywap 	这个其实	c=0 d=0.1 t=9
+encywrt 	高位接盘	c=0 d=0.1 t=193
+encywru 	高位接	c=0 d=0.1 t=192
+encyyrq 	文的	c=0 d=0.1 t=147
+encyywr 	就高位接	c=0 d=0.1 t=192
+encyywu 	就高位	c=0 d=0.1 t=191
